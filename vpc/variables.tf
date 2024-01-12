@@ -1,0 +1,1 @@
+# You can add variables specific to the VPC module here if needed
